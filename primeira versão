@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>leticia Camello - curriculo </title>
+    <meta keyword = "curriculo" content = "curriculo de leticia soares do nascimento de camello barros ">
+    <link rel="stylesheet" href="desafioc.css">
+  </head>
+  <body>
+
+    <h1>Leticia Camello </h1>
+    <img src = "curriculo_foto.jpg" widht = "200" height="300" >
+
+
+  </body>
+</html>
