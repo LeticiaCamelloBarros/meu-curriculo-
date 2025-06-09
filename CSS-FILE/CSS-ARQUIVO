@@ -1,16 +1,23 @@
 
-head {
-      color :rgb(173, 121, 63);
-}
-h1{
-      color :rgb(173, 121, 63);
-}
-
 p{
       color :rgb(54, 24, 24);
-}
+      font-family: 'Times New Roman', Times, serif;
+      font-style:oblique;
+}     
 body{
       
         background-color: rgba(240, 225, 138, 0.932);
 
 }
+.classical {
+ height: 100px;
+ width: 300px;
+ color :rgb(179, 28, 96);
+ font-weight:bolder;
+ font-family:'Times New Roman', Times, serif;
+ background-color: antiquewhite;
+ border-radius: 10px;
+}      
+img {
+ border-radius: 10px;
+}                                                     
