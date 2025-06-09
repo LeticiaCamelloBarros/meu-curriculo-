@@ -7,9 +7,9 @@
   </head>
   <body>
 
-    <h1>Leticia Camello </h1>
+    <h1 class = "classical">Leticia Camello </h1>
     <img src = "curriculo_foto.jpg" widht = "200" height="300" >
-
-
+    <p>why are you so obcess with me ? </p>
+    <p >bye,bye,bye</p>
   </body>
 </html>
