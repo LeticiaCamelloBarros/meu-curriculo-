@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>leticia camello - professional resume</title>
+    <link rel="stylesheet" href="desafioc.css">
 </head>
 <body>
           <!-- se não funcionar / não carregar a página usando async , usar o defer1 -->
