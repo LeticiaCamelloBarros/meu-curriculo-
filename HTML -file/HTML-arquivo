@@ -1,12 +1,25 @@
 
+<!-- * Async (Assíncrono)
+Carrega o script de forma assíncrona em paralelo com 
+o parsing do HTML. O script é executado assim que é carregado. -->
+<!-- * Defer (Adiado)
+Garante que o script será executado somente após a análise completa
+ do documento HTML, mantendo a ordem dos scripts. -->
 <!DOCTYPE html>
 <html>
   <head>
-    <title>leticia Camello - curriculo </title>
+    <title>leticia Camello - curriculo</title>
     <meta keyword = "curriculo" content = "curriculo de leticia soares do nascimento de camello barros ">
     <link rel="stylesheet" href="desafioc.css">
   </head>
   <body>
+    <div>
+      <!-- se não funcionar / não carregar a página usando async , usar o defer1 -->
+      <script src = "script.js" defer type="text/javascript"></script>
+      <form>
+          <input type = "button" value = "en" onclick = "tradutor ();" id = "lang_button">
+      </form>
+    </div>
     <div id = "hs">
       <!-- hs é conteiner -->
         <h2 class = "classical_name">Leticia Camello</h2>
@@ -27,5 +40,7 @@
   <a href=""></a>
 </html>
 
+
+    
 
     
