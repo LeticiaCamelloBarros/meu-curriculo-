@@ -11,4 +11,4 @@ A criação do meu curriculo é uma atividade avaliativa do professor da cesar s
 
 ## o arquivo do java script ele foi usado para fazer a nossa aplicação especial :
 ### fiz um tradutor de página a página original ( que tá na descrição da minha bio daqui do github ) tem um botão chamado "en" , quando você clica nele você terá acesso à outra versão da página ( outra página ) em inglês mas com o botão "pt-br" . Então para voltar para a página original basta clicar no botão "pt-br", assim você pode mudar de idioma quantas      vezes você preferir .
-[link da minha inspiração para fazer a plicação css](https://www.delftstack.com/pt/howto/javascript/javascript-toggle-button/)
+[link da minha inspiração para fazer a plicação java script ](https://www.delftstack.com/pt/howto/javascript/javascript-toggle-button/)
