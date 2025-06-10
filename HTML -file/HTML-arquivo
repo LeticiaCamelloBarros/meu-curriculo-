@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,10 +7,25 @@
     <link rel="stylesheet" href="desafioc.css">
   </head>
   <body>
-
-    <h1 class = "classical">Leticia Camello </h1>
-    <img src = "curriculo_foto.jpg" widht = "200" height="300" >
-    <p>why are you so obcess with me ? </p>
-    <p >bye,bye,bye</p>
+    <div id = "hs">
+      <!-- hs é conteiner -->
+        <h2 class = "classical_name">Leticia Camello</h2>
+        <h1 class = "shadow">Leticia Camello</h1>
+        <!-- h1 e h2 são items  -->
+    </div>
+    <div id = "conteiner_linha1" > 
+      <p class = "linha1">likedin</p>
+      <p class = "linha1">instagram</p>
+      <p class = "linha1">github</p>
+    </div>
+    <div id = "conteiner_linha2">
+      <p class = "linha2" id = "linha2_item1" ><a href = "https://www.linkedin.com/feed/">clique aqui  para acessar meu  likedin</a></p> 
+      <p class = "linha2" id = "linha2_item2"><a href = "https://www.instagram.com/leticiacamellab?igsh=d3pucWxqd201eGQ=">clique aqui para acesar meu instagram</a></p> 
+      <p class = "linha2" id = "linha2_item3"><a href = "https://github.com/LeticiaCamelloBarros">clique aqui para acessar meu github</a></p>
+    </div>
   </body>
+  <a href=""></a>
 </html>
+
+
+    
