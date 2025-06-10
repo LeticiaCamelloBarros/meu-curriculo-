@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>leticia camello - professional resume</title>
+</head>
+<body>
+          <!-- se não funcionar / não carregar a página usando async , usar o defer1 -->
+      <script src = "script.js" defer type="text/javascript"></script>
+      <form>
+          <input type = "button" value = "pt-br" onclick = "tradutor();" id = "lang_button" >
+      </form>
+</body>
+</html>
