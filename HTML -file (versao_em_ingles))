@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,5 +12,40 @@
       <form>
           <input type = "button" value = "pt-br" onclick = "tradutor();" id = "lang_button" >
       </form>
+    <div id = "hs">
+      <!-- hs é conteiner -->
+        <h2 class = "classical_name">Leticia Camello</h2>
+        <h1 class = "shadow">Leticia Camello</h1>
+        <!-- h1 e h2 são items  -->
+    </div>
+    <div id = "conteiner_linha1" > 
+      <p class = "linha1">likedin</p>
+      <p class = "linha1">instagram</p>
+      <p class = "linha1">github</p>
+    </div>
+    <div id = "conteiner_linha2">
+      <p class = "linha2" id = "linha2_item1" ><a href = "https://www.linkedin.com/feed/">clique aqui  para acessar meu  likedin</a></p> 
+      <p class = "linha2" id = "linha2_item2"><a href = "https://www.instagram.com/leticiacamellab?igsh=d3pucWxqd201eGQ=">clique aqui para acesar meu instagram</a></p> 
+      <p class = "linha2" id = "linha2_item3"><a href = "https://github.com/LeticiaCamelloBarros">clique aqui para acessar meu github</a></p>
+    </div>
+    <h2>why am i doing a computer cience graduation ? :</h2>
+      <p>Since i was little,i been in love for cience and pela technology , for what makes the humankind even wiser .</p>
+      <p>I came to this graduation because a didn't have a professional path yet to follow to follow yet </p>
+      <p>So, i came to to cesar school know more about this thing called computer cience</p>
+<h2>my skills</h2>
+      <p>ever since I was little I liked to write and read about different subjects , in my text for the test of the brasilian federal exam ( ENEM ) i won´t let my text have the same estructure , every time i wrote i liked to create something new .</p>
+      <p>I may not know how to do something especific , but i do my best to figure out , just like i did when i created this website and created my project from the project 1 discipline </p>
+      <p>In the very start of this year i did an exchange program to montreal ,it Was a great opportunity to boost my english habilities . Howerver since it was over, i continue to study a foreing languagen , reading books ou watching youtube videos .  
+      <p>i am very into having ideias , thinking in solutions for problems , finding better alternatives , the job that i must take as my own, in my point of view  , must be something just like that</p>
+      <h2>Plans for my future </h2>
+    <p>Till the end of my graduation in 2028 , i hope i could learn more about back and front end devlopment</p>
+    <p>I am planning i go to as much much lectures as i can  about  tech areas ,computer languanges , new jobs;fazer vários  cursos de conhecimento, tudo mesmo que não sirva para dar um norte de para onde seguir , já serve de leque de aprendizado e networking , não existe saber inútil</p>
+   
+  <h3>to know more :</h3>
+  <p>EMAIL for mensage : lsncb@cesar.school</p>
+  <p>Do you wanna know better my project from my  first semester  ?  : <a href = "https://sites.google.com/u/0/d/1zDHx28Fy6MLAq5XGDgKr6vF-QnIJNmXf/preview">click here</a></p>
+</html>
 </body>
 </html>
+
+
